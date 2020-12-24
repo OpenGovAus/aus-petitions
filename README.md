@@ -5,6 +5,8 @@ A Python package to obtain current petitions from the various Australian parliam
 #### Currently Supported Parliaments
 
 - ACT
+- NT
+- WA
 
 ## Installation
 
